@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @CarlosARamirezIT
-- 👀 I’m interested in learning how to become a Network Engineer.
-- 🌱 I’m currently learning how to use Active Directory and Ticketing Systems.
-- 💞️ I’m looking to collaborate on an IT project or lab. 
-- 📫 How to reach me go ahead and shoot me an email @ carlos.ramirez3567@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I changed careers from a security guard to IT.
+<h1>Hi, I'm Nick, an <a href="www.linkedin.com/in/carlos-ramirez-323139178">IT Professional</a>☺</h1>
 
-<!---
-CarlosARamirezIT/CarlosARamirezIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/nickbannenberg/osticket-prereqs)  
+- <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nickbannenberg/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/carlos-ramirez-323139178
