@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos, I am <a href="www.linkedin.com/in/carlos-ramirez-323139178">IT Professional</a>☺</h1>
+<h1>Hi, I'm Carlos, I am a <a href="www.linkedin.com/in/carlos-ramirez-323139178">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
